@@ -19,7 +19,7 @@ With the help of this sensor, I will monitor security of my Industry. I have a s
 <br>
 
 <b> Hardware Block diagram: </b> <br>
-<img 
+<img src="https://github.com/sral1993/ECEN-5023-IOT-Embedded-Firmware/blob/master/images/HBD.png" alt="HBD">
 <br>
 <b> Key Components used: </b> <br>
 1)	Leopard Gecko <br>
@@ -33,25 +33,25 @@ With the help of this sensor, I will monitor security of my Industry. I have a s
 
 <b> Software Organizational Flow chart </b>
 <br>
-<img
+<img src="https://github.com/sral1993/ECEN-5023-IOT-Embedded-Firmware/blob/master/images/softwareBD.png" alt="SBD">
 <br>
 <b> RESULTS: </b>
 <br>
 <b> Temperature: </b>
-<img
+<img src="https://github.com/sral1993/ECEN-5023-IOT-Embedded-Firmware/blob/master/images/temperature.png" alt="Temp">
 <br>
 <b> Pressure: </b>
-<img
+<img src="https://github.com/sral1993/ECEN-5023-IOT-Embedded-Firmware/blob/master/images/pressure.png" alt="Pressure">
 <br>
 <b> When I enter the Industry: </b>
-<img
+<img src="https://github.com/sral1993/ECEN-5023-IOT-Embedded-Firmware/blob/master/images/enter.png" alt="Enter">
 <br>
 <b> When I leave the Industry: </b>
-<img
+<img src="https://github.com/sral1993/ECEN-5023-IOT-Embedded-Firmware/blob/master/images/leave.png" alt="Leave">
 <br>
 <b> Accelerometer Alert: </b>
-<img
+<img src="https://github.com/sral1993/ECEN-5023-IOT-Embedded-Firmware/blob/master/images/accelerometeralert.jpg" alt="Accel Alert">
 <br>
 <b> Security Alert caused with touch: </b>
-<img
+<img src="https://github.com/sral1993/ECEN-5023-IOT-Embedded-Firmware/blob/master/images/touchalert.jpg" alt="Touch Alert">
 <br>
