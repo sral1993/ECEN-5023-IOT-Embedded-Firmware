@@ -37,21 +37,21 @@ With the help of this sensor, I will monitor security of my Industry. I have a s
 <br>
 <b> RESULTS: </b>
 <br>
-<b> Temperature: </b>
+<b> Temperature: </b> <br>
 <img src="https://github.com/sral1993/ECEN-5023-IOT-Embedded-Firmware/blob/master/images/temperature.png" alt="Temp">
 <br>
-<b> Pressure: </b>
+<b> Pressure: </b> <br>
 <img src="https://github.com/sral1993/ECEN-5023-IOT-Embedded-Firmware/blob/master/images/pressure.png" alt="Pressure">
 <br>
-<b> When I enter the Industry: </b>
+<b> When I enter the Industry: </b> <br>
 <img src="https://github.com/sral1993/ECEN-5023-IOT-Embedded-Firmware/blob/master/images/enter.png" alt="Enter">
 <br>
-<b> When I leave the Industry: </b>
+<b> When I leave the Industry: </b> <br>
 <img src="https://github.com/sral1993/ECEN-5023-IOT-Embedded-Firmware/blob/master/images/leave.png" alt="Leave">
 <br>
-<b> Accelerometer Alert: </b>
+<b> Accelerometer Alert: </b> <br>
 <img src="https://github.com/sral1993/ECEN-5023-IOT-Embedded-Firmware/blob/master/images/accelerometeralert.jpg" alt="Accel Alert">
 <br>
-<b> Security Alert caused with touch: </b>
+<b> Security Alert caused with touch: </b> <br>
 <img src="https://github.com/sral1993/ECEN-5023-IOT-Embedded-Firmware/blob/master/images/touchalert.jpg" alt="Touch Alert">
 <br>
